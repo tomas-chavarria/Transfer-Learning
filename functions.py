@@ -54,3 +54,5 @@ class Generator(nn.Module):
         # print(f"After layer 4: {np.shape(x)}")
 
         return x
+
+# We would be defining the dataset here
