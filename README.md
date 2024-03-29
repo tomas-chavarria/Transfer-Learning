@@ -1,2 +1,2 @@
 # Transfer-Learning
-Utilizes a pre-built classification model to train a down-sampling CNN
+Utilizes a pre-built classification model to train an image-generating CNN
